@@ -2,29 +2,25 @@
 
 ### Problem #1
 Source Code
-![sourcecode](./img/1/sourcecode.png)
-
+![sourcecode](./img/1/sourcecode.png)<br>
 Output
 ![Output](./img/1/output.png)
 
 ### Problem #2
 Source Code
-![sourcecode](./img/2/sourcecode.png)
-
+![sourcecode](./img/2/sourcecode.png)<br>
 Output
 ![Output](./img/2/output.png)
 
 ### Problem #3
 Source Code
-![sourcecode](./img/3/sourcecode.png)
-
+![sourcecode](./img/3/sourcecode.png)<br>
 Output
 ![Output](./img/3/output.png)
 
 ### Problem #4
 Source Code
-![sourcecode](./img/4/sourcecode.png)
-
+![sourcecode](./img/4/sourcecode.png)<br>
 Output
 ![Output1](./img/4/output1.png)
 ![Output2](./img/4/output2.png)
@@ -32,7 +28,6 @@ Output
 
 ### Problem #5
 Source Code
-![sourcecode](./img/5/sourcecode.png)
-
+![sourcecode](./img/5/sourcecode.png)<br>
 Output
 ![Output](./img/5/output.png)
