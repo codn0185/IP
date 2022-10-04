@@ -1,0 +1,4 @@
+﻿  practice.cpp
+C:\Users\paleo\Desktop\Google Drive 동기화\2학년 첫째학기 (22년도 2학기)\프로그래밍입문(2)\IP2\4주차\Week4\Week4\practice.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  LINK : C:\Users\paleo\Desktop\Google Drive 동기화\2학년 첫째학기 (22년도 2학기)\프로그래밍입문(2)\IP2\4주차\Week4\x64\Debug\Week4.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  Week4.vcxproj -> C:\Users\paleo\Desktop\Google Drive 동기화\2학년 첫째학기 (22년도 2학기)\프로그래밍입문(2)\IP2\4주차\Week4\x64\Debug\Week4.exe
